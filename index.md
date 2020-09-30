@@ -37,4 +37,3 @@ Welcome to a platform where we help you train your devs so even they know how to
 >IMPORTANT NOTE: All of these games are done on computers and are solved with code.
 
 Thank you for your time and attention!
-
