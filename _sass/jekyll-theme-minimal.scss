@@ -114,11 +114,13 @@ header {
 ul.downloads {
   list-style:none;
   width:270px;
+  align-items: center;
+  display: flex;
 }
 
 .downloads li {
   width:89px;
-  float:left;
+  float: right;
   height:40px;
 }
 
